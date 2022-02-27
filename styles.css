@@ -77,7 +77,7 @@ p#timer, p#lives{
 }
 
 p.selected {
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 p.incorrect{
